@@ -4,7 +4,7 @@ An Arduino-based real-time distance alert system that uses an ultrasonic sensor,
 
 ## 🚀 Features
 
--📡 Ultrasonic Distance Measurement  
+- 📡 Ultrasonic Distance Measurement  
   - Uses an HC-SR04 ultrasonic sensor to measure distance
   - Calculates object distance with precise timing
 
@@ -12,7 +12,7 @@ An Arduino-based real-time distance alert system that uses an ultrasonic sensor,
   - Triggers visual and physical alerts when an object is detected within 60 cm  
   - Activates a vibration motor and LED indicators to notify users instantly
 
--🔌 Pin Control and I/O Management  
+- 🔌 Pin Control and I/O Management  
   - Configures digital pins to interface with input and output components  
   - Utilizes `pinMode`, `digitalWrite`, and `pulseIn` for precise hardware control
 
